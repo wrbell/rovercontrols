@@ -1,0 +1,9 @@
+Things to brainstorm
+- How much power should be going to the motors?
+-- How much current?
+-- What is the voltage required by the Arduino's motor shield?
+- How much code will this involve?
+
+- What is the meaning of life?
+
+- Why are you reading this? Get back to work
